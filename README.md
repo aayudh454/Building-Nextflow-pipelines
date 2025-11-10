@@ -103,7 +103,7 @@ nextflow run main.nf -resume
 
 ```
 
-✅ Common Nextflow Problems & How to Troubleshoot Them
+**Common Nextflow Problems & How to Troubleshoot Them**
 1. A process fails with an error (script crashes, missing tool, bad input)
 Symptoms
 
