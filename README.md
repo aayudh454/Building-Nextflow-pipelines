@@ -1,4 +1,4 @@
-**Nextflow Pipeline: Trimming → Alignment → Sorting/Indexing**
+**Nextflow Pipeline CRISPR ON-target: Trimming → Alignment → Sorting/Indexing**
 
 Save as: main.nf
 ```
